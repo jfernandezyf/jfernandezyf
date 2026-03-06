@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Soy de Lima <br><br>- 🔭 Trabajo en el área de soporte de Western Union.<br>- 📚 Actualmente estoy aprendiendo a programar en lenguajes como java y javascript.<br>- ⚡ Me encuentro estudiando la carrera de Ing. de sistemas en el 8vo ciclo en la UTP.</p>
+<p align="left">Soy de Perú <br><br>- 🔭 Trabajo en el área de soporte de Western Union.<br>- 📚 Actualmente estoy aprendiendo a programar en lenguajes como java y javascript.<br>- ⚡ Me encuentro estudiando la carrera de Ing. de sistemas en el 8vo ciclo en la UTP.</p>
 
 ###
 
